@@ -1,0 +1,5 @@
+-hoisting
+-setTimeoout
+-sync and async functions
+- event loop
+- latent flip.com(callstack,web-api,callback queue)
