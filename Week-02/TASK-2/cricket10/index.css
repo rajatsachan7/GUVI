@@ -1,0 +1,67 @@
+body{
+    background-color:lightyellow
+}
+#create-game{
+    text-align: center;
+    background-color: skyblue;
+}
+#team1
+{
+  display: inline-block;
+  margin-left: 125px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+ 
+}
+#res
+{
+  display: inline-block;
+  margin-left: 200px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 30px;
+ 
+}
+#res_btn
+{
+    background-color: skyblue;
+}
+#team2
+{
+  display: inline-block;
+  margin-left: 275px;
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+ 
+}
+table, td, th
+{
+  border: 1px solid black;
+  padding: 5px;
+}
+#total1
+{
+  font-size: 20px;
+  font-weight: bold;
+}
+#total2
+{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#team1-hit{
+    background-color: skyblue;
+    position: absolute;
+    top: 32%;
+    left: 15%
+}
+
+#team2-hit{
+    background-color: skyblue;
+    position: absolute;
+    top: 32%;
+    right: 17%
+}
